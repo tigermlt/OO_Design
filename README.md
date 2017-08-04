@@ -1,2 +1,2 @@
 # OO_Design
-Design Pattern Illustration
+This repo collects and illustrates common design patterns
